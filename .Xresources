@@ -1,0 +1,44 @@
+URxvt.font: xft:DejaVu Sans Mono:size=11
+URxvt.boldFont: xft:DejaVu Sans Mono:size=11
+URxvt.scrollBar: false
+URxvt.perl-ext-common:resize-font
+URxvt.keysym.C-minus:resize-font:smaller
+URxvt.keysym.C-equal:resize-font:bigger
+URxvt.keysym.C-0:resize-font:reset
+
+! special
+*.foreground:   #d8dee9
+*.background:   #1d1f21
+*.cursorColor:  #d8dee9
+
+! black
+*.color0:       #313539
+*.color8:       #676f78
+
+! red
+*.color1:       #b02626
+*.color9:       #b55454
+
+! green
+*.color2:       #40a62f
+*.color10:      #78a670
+
+! yellow
+*.color3:       #f2e635
+*.color11:      #faf380
+
+! blue
+*.color4:       #314ad0
+*.color12:      #707fd0
+
+! magenta
+*.color5:       #b30ad0
+*.color13:      #c583d0
+
+! cyan
+*.color6:       #3bc9f1
+*.color14:      #8adaf1
+
+! white
+*.color7:       #acadb1
+*.color15:      #e0e3e7

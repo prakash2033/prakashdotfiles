@@ -1,0 +1,14 @@
+[database]
+path=/home/prakash/.local/share/mail
+[user]
+name=Prakash Vishwakarma
+primary_email=prakash2033@outlook.com
+[new]
+tags=unread;inbox;
+ignore=
+[search]
+exclude_tags=deleted;spam;
+[maildir]
+synchronize_flags=true
+[crypto]
+gpg_path=gpg

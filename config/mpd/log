@@ -1,0 +1,98 @@
+Nov 19 00:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 19 00:52 : exception: Failed to open '/home/prakash/.config/mpd/state': No such file or directory
+Nov 19 00:52 : exception: Failed to access /home/prakash/Music: No such file or directory
+Nov 19 00:52 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 19 00:52 : client: [0] opened from 127.0.0.1:35862
+Nov 19 00:52 : client: [0] closed
+Nov 19 00:52 : client: [1] opened from 127.0.0.1:35868
+Nov 19 00:52 : client: [2] opened from 127.0.0.1:35872
+Nov 19 00:52 : client: [2] closed
+Nov 19 00:58 : client: [3] opened from 127.0.0.1:35952
+Nov 19 00:58 : client: [3] closed
+Nov 19 00:59 : client: [4] opened from 127.0.0.1:35978
+Nov 19 00:59 : client: [4] closed
+Nov 19 01:00 : client: [5] opened from 127.0.0.1:35984
+Nov 19 01:00 : client: [5] closed
+Nov 19 01:38 : client: [1] closed
+Nov 19 01:38 : client: [6] opened from 127.0.0.1:36932
+Nov 19 01:38 : client: [6] closed
+Nov 19 01:38 : client: [7] opened from 127.0.0.1:36938
+Nov 19 01:38 : client: [8] opened from 127.0.0.1:36942
+Nov 19 01:38 : client: [8] closed
+Nov 19 01:40 : client: [9] opened from 127.0.0.1:36946
+Nov 19 01:40 : client: [9] closed
+Nov 19 01:40 : client: [10] opened from 127.0.0.1:36952
+Nov 19 01:40 : client: [10] closed
+Nov 19 02:27 : client: [11] opened from 127.0.0.1:38664
+Nov 19 02:27 : client: [11] closed
+Nov 19 02:27 : client: [12] opened from 127.0.0.1:38670
+Nov 19 02:27 : client: [12] closed
+Nov 19 02:27 : client: [13] opened from 127.0.0.1:38676
+Nov 19 02:27 : client: [13] closed
+Nov 19 02:27 : client: [14] opened from 127.0.0.1:38682
+Nov 19 02:27 : client: [14] closed
+Nov 19 02:27 : client: [15] opened from 127.0.0.1:38688
+Nov 19 02:27 : client: [15] closed
+Nov 19 02:29 : client: [7] closed
+Nov 19 02:29 : client: [16] opened from 127.0.0.1:38750
+Nov 19 02:29 : client: [16] closed
+Nov 19 02:29 : client: [17] opened from 127.0.0.1:38756
+Nov 19 02:29 : client: [18] opened from 127.0.0.1:38760
+Nov 19 02:29 : client: [18] closed
+Nov 19 03:57 : client: [19] opened from 127.0.0.1:42756
+Nov 19 03:57 : client: [19] closed
+Nov 19 03:57 : client: [20] opened from 127.0.0.1:42762
+Nov 19 03:57 : client: [20] closed
+Nov 19 18:10 : client: [21] opened from 127.0.0.1:42768
+Nov 19 18:10 : client: [21] closed
+Nov 19 18:10 : client: [22] opened from 127.0.0.1:42774
+Nov 19 18:10 : client: [22] closed
+Nov 19 18:10 : client: [23] opened from 127.0.0.1:42780
+Nov 19 18:10 : client: [23] closed
+Nov 19 18:10 : client: [24] opened from 127.0.0.1:42786
+Nov 19 18:10 : client: [24] closed
+Nov 19 18:15 : client: [25] opened from 127.0.0.1:42794
+Nov 19 18:15 : client: [25] closed
+Nov 19 18:15 : client: [26] opened from 127.0.0.1:42798
+Nov 19 18:15 : client: [26] closed
+Nov 19 18:15 : client: [27] opened from 127.0.0.1:42802
+Nov 19 18:15 : client: [27] closed
+Nov 19 18:15 : client: [28] opened from 127.0.0.1:42806
+Nov 19 18:15 : client: [28] closed
+Nov 19 18:15 : client: [29] opened from 127.0.0.1:42810
+Nov 19 18:15 : client: [29] closed
+Nov 19 19:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 19 19:02 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 19 19:02 : client: [0] opened from 127.0.0.1:40324
+Nov 19 19:02 : client: [0] closed
+Nov 19 19:02 : client: [1] opened from 127.0.0.1:40330
+Nov 19 19:02 : client: [2] opened from 127.0.0.1:40334
+Nov 19 19:02 : client: [2] closed
+Nov 19 19:18 : client: [3] opened from 127.0.0.1:40572
+Nov 19 19:18 : client: [3] closed
+Nov 19 19:20 : client: [4] opened from 127.0.0.1:40582
+Nov 19 19:20 : client: [4] closed
+Nov 19 19:21 : client: [5] opened from 127.0.0.1:40596
+Nov 19 19:21 : client: [5] closed
+Nov 19 19:34 : client: [6] opened from 127.0.0.1:40806
+Nov 19 19:34 : client: [6] closed
+Nov 19 19:35 : client: [7] opened from 127.0.0.1:40812
+Nov 19 19:35 : client: [7] closed
+Nov 19 20:49 : client: [1] closed
+Nov 19 20:49 : client: [8] opened from 127.0.0.1:41010
+Nov 19 20:49 : client: [8] closed
+Nov 19 20:49 : client: [9] opened from 127.0.0.1:41016
+Nov 19 20:49 : client: [10] opened from 127.0.0.1:41020
+Nov 19 20:49 : client: [10] closed
+Nov 19 20:54 : client: [11] opened from 127.0.0.1:41112
+Nov 19 20:54 : client: [11] closed
+Nov 19 20:54 : client: [12] opened from 127.0.0.1:41118
+Nov 19 20:54 : client: [12] closed
+Nov 19 20:54 : client: [13] opened from 127.0.0.1:41124
+Nov 19 20:54 : client: [13] closed
+Nov 19 20:54 : client: [14] opened from 127.0.0.1:41130
+Nov 19 20:54 : client: [14] closed
+Nov 19 20:54 : client: [15] opened from 127.0.0.1:41136
+Nov 19 20:54 : client: [15] closed
+Nov 19 20:54 : client: [16] opened from 127.0.0.1:41142
+Nov 19 20:54 : client: [16] closed

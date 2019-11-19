@@ -1,0 +1,7 @@
+{
+    "bitrate": 1000,
+    "buffer_size": 0,
+    "preset": "ultrafast",
+    "use_bufsize": true,
+    "x264opts": "crf=13"
+}

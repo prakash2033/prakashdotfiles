@@ -1,0 +1,4 @@
+feeds:
+ - url: https://mirror.animetosho.org/feed/rss2?only_tor=1
+   regexp: (((\[HorribleSubs\] (Shokugeki no Soma S4|Sword Art Online - Alicization - War of Underworld|Boku no Hero Academia|Hoshiai no Sora|No Guns Life|Bokutachi wa Benkyou ga Dekinai S2|Assassins Pride|Chuubyou Gekihatsu Boy|Babylon|Kandagawa Jet Girls|Val x Love|Africa no Salaryman|Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!|Azur Lane|Hataage! Kemono Michi|Houkago Saikoro Club|Ahiru no Sora|Ore wo Suki nano wa Omae dake ka yo|Shinchou Yuusha|Vinland Saga|Enen no Shouboutai|Dr\. Stone|Black Clover))|((\[Erai-raws\] Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!|Nanatsu no Taizai - Kamigami no Gekirin))).*(\[1080p\])|\[Over-Time\] Star☆Twinkle Precure|\[Some-Stuffs\]_Pocket_Monsters_Sun_&_Moon|[PAS] Beastars)
+
